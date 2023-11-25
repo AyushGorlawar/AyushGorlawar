@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyushGorlawar
-- 👀 I’m interested in python, web dev, java, 8086 - arduino 
+- 👀 I’m interested in python, web dev, java, 8086 - arduino , python
 - 💞️ I’m looking to collaborate on .something cool 
 - 📫 How to reach me ayushgorlawar91@gmail.com or discord.gg/bybros
 
