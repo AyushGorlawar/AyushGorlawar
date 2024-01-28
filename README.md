@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyushGorlawar
 - 👀 I’m interested in python, web dev, java, 8086 - arduino , python
 - 💞️ I’m looking to collaborate on .something cool 
-- 📫 How to reach me ayushgorlawar91@gmail.com or discord.gg/bybros
+- 📫 How to reach me ayushgorlawar91@gmail.com 
 
 <!---
 AyushGorlawar/AyushGorlawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
