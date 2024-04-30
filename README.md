@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushGorlawar
-- 👀 I’m interested in python, web dev, java, 8086 - arduino , python
-- 💞️ I’m looking to collaborate on .something cool 
+- 👀 I’m interested in Python, AI Analytics, Data Science, Java, Js
+- 💞️ I’m looking to collaborate on something cool 
 - 📫 How to reach me ayushgorlawar91@gmail.com 
 
 <!---
