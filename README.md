@@ -77,8 +77,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AyushGorlawar&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Ayush Gorlawar's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGorlawar&theme=radical" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=AyushGorlawar&theme=radical" alt="GitHub Streak Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGorlawar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
