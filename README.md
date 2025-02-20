@@ -21,7 +21,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRZy25qVnXim0IHxSZ9q0eQiW3E-NHXxDjuQ&s" alt="LinkedIn" width="30" height="30" style="filter: invert(100%);" />
   </a>
   <a href="https://twitter.com/ayushgorlawar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="30" height="30" style="filter: invert(100%);" />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-color-icon.svg" alt="Twitter" width="30" height="30" style="filter: invert(100%);" />
   </a>
   <a href="mailto:ayushgorlawar91@gmail.com" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" alt="Gmail" width="30" height="30" style="filter: invert(100%);" />
