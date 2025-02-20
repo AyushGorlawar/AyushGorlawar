@@ -27,7 +27,7 @@
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" alt="Gmail" width="30" height="30" style="filter: invert(100%);" />
   </a>
   <a href="g.dev/AyushGorlawar" target="_blank">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-color-icon.svg" alt="Google Dev" width="30" height="30" style="filter: invert(100%);" />
+    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Dev" width="30" height="30" style="filter: invert(100%);" />
   </a>
 </p>
 
