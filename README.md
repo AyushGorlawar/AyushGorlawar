@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I’m Ayush Gorlawar</h1>
 <h3 align="center">A passionate tech enthusiast and developer from India, blending expertise across backend, frontend, IoT, medical tech, and web development. I thrive on exploring diverse technologies and pushing the boundaries of innovation.</h3>
 
+<div>
+  <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
+</div>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AyushGorlawar&label=Profile%20views&color=0e75b6&style=flat" alt="AyushGorlawar" />
 </p>
@@ -14,7 +20,7 @@
 - 🎯 **Hobbies:** Experimenting with medical technology, building smart IoT systems, and exploring AI-driven problem-solving.  
 
 ---
-<p align="center"><a href="https://github.com/AyushGorlawar"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+ 
 
 ### 🤝 Connect With Me  
 <p align="left">
@@ -31,7 +37,11 @@
     <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Dev" width="30" height="30" style="filter: invert(100%);" />
   </a>
 </p>
-
+<div>
+  <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
+</div>
 
 
 ### 🧰 Languages and Tools  
@@ -74,8 +84,13 @@
   </a>
 </p>
 
----
-### 📈 GitHub Stats  
+<div>
+  <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
+</div>
+
+## 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyushGorlawar&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Ayush Gorlawar's GitHub stats" />
@@ -89,7 +104,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGorlawar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<div>
+  <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
