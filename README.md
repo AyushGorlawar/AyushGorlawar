@@ -3,15 +3,25 @@
 <h1 align="center">Hi 👋, I’m Ayush Gorlawar</h1>
 <h3 align="center">A passionate tech enthusiast and developer from India, blending expertise across backend, frontend, IoT, medical tech, and web development. I thrive on exploring diverse technologies and pushing the boundaries of innovation.</h3>
 
+<div align="center">
+   <p align="center">
+      <a href="https://user-badge.committers.top/kenya/AyushGorlawar">
+         <img src="https://user-badge.committers.top/kenya/CHEGEBB.svg" alt="committers.top badge" />
+      </a>
+      <img src="https://komarev.com/ghpvc/?username=AyushGorlawar&label=Profile%20views&color=0e75b6&style=flat" alt="AyushGorlawar" />
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/AyushGorlawar">
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/AyushGorlawar">
+       
+   </p>
+</div>
+
 <div>
   <a href="#">
     <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
   </a>
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AyushGorlawar&label=Profile%20views&color=0e75b6&style=flat" alt="AyushGorlawar" />
-</p>
+ 
 
 - 🌱 **Currently Learning:** Artificial Intelligence Analysis  
 - 💡 **Ask Me About:**  
