@@ -14,6 +14,7 @@
 - 🎯 **Hobbies:** Experimenting with medical technology, building smart IoT systems, and exploring AI-driven problem-solving.  
 
 ---
+<p align="center"><a href="https://github.com/AyushGorlawar"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 ### 🤝 Connect With Me  
 <p align="left">
@@ -31,7 +32,7 @@
   </a>
 </p>
 
----
+
 
 ### 🧰 Languages and Tools  
 <p align="left">
