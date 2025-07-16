@@ -113,7 +113,14 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AyushGorlawar&limit=5&theme=aura&combine_all_yearly_contributions=true)<br>
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyushGorlawar&theme=algolia&no-frame=true&row=2&column=4" alt="Ayush's GitHub Trophies" />
+</p>
+
+---
+ 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <div>
