@@ -119,11 +119,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AyushGorlawar&theme=algolia&no-frame=true&row=2&column=4" alt="Ayush's GitHub Trophies" />
 </p>
 
----
- 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<div>
+
+
 </div>
 
 
