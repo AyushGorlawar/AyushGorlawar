@@ -1,17 +1,13 @@
 [![Header](https://github.com/AyushGorlawar/AyushGorlawar/blob/main/PROGRAMMER.gif)](https://ayushgorlawar.io)
  
-<h1 align="center">Hi 👋, I’m Ayush Gorlawar</h1>
+<h1 align="center">Hi 👋, I'm Ayush Gorlawar</h1>
 <h3 align="center">A passionate tech enthusiast and developer from India, blending expertise across backend, frontend, IoT, medical tech, and web development. I thrive on exploring diverse technologies and pushing the boundaries of innovation.</h3>
 
 <div align="center">
    <p align="center">
-      <a href="https://user-badge.committers.top/kenya/AyushGorlawar">
-         <img src="https://user-badge.committers.top/kenya/CHEGEBB.svg" alt="committers.top badge" />
-      </a>
       <img src="https://komarev.com/ghpvc/?username=AyushGorlawar&label=Profile%20views&color=0e75b6&style=flat" alt="AyushGorlawar" />
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/AyushGorlawar">
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/AyushGorlawar">
-       
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/AyushGorlawar?style=social">
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/AyushGorlawar?style=social">
    </p>
 </div>
 
@@ -35,18 +31,16 @@
 ### 🤝 Connect With Me  
 <p align="left">
   <a href="https://linkedin.com/in/ayushgorlawar" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRZy25qVnXim0IHxSZ9q0eQiW3E-NHXxDjuQ&s" alt="LinkedIn" width="30" height="30" style="filter: invert(100%);" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/ayushgorlawar" target="_blank">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-color-icon.svg" alt="Twitter" width="30" height="30" style="filter: invert(100%);" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:ayushgorlawar91@gmail.com" target="_blank">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" alt="Gmail" width="30" height="30" style="filter: invert(100%);" />
-  </a>
-  <a href="https://developers.google.com/profile/u/AyushGorlawar" target="_blank">
-    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Dev" width="30" height="30" style="filter: invert(100%);" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
 <div>
   <a href="#">
     <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -100,33 +94,22 @@
   </a>
 </div>
 
-## 📈 GitHub Stats  
-<div align="center">
+## 📊 GitHub Statistics
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushGorlawar&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br>
+<img height="180em" src="https://streak-stats.demolab.com?user=AyushGorlawar&theme=dark&hide_border=true" alt="GitHub Streak" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AyushGorlawar&theme=aura)](https://git.io/streak-stats) <br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushGorlawar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGorlawar&layout=compact&exclude_repo=Robotframwork,Tips-tools&theme=aura&langs_count=15)](https://github.com/AyushGorlawar/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGorlawar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AyushGorlawar&limit=5&theme=aura&combine_all_yearly_contributions=true)<br>
+## 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGorlawar&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushGorlawar&theme=algolia&no-frame=true&row=2&column=4" alt="Ayush's GitHub Trophies" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=AyushGorlawar&theme=dark_dimmed&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
-
-
-</div>
-
-
- 
-
-
+<div>
   <a href="#">
     <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
   </a>
@@ -141,4 +124,6 @@
   <a href="#">
     <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
   </a>
+</div>
+
 </div>
