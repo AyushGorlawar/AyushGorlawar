@@ -96,11 +96,13 @@
 
 ## 📊 GitHub Statistics
 
-<img height="180em" src="https://streak-stats.demolab.com?user=AyushGorlawar&theme=dark&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/AyushGorlawar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushGorlawar&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushGorlawar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGorlawar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/AyushGorlawar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushGorlawar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+</a>
 
 ## 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGorlawar&theme=github-dark&hide_border=true" alt="Contribution Graph" />
