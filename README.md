@@ -1,131 +1,92 @@
-[![Header](https://github.com/AyushGorlawar/AyushGorlawar/blob/main/PROGRAMMER.gif)](https://ayushgorlawar.io)
- 
-<h1 align="center">Hi 👋, I'm Ayush Gorlawar</h1>
-<h3 align="center">A passionate tech enthusiast and developer from India, blending expertise across backend, frontend, IoT, medical tech, and web development. I thrive on exploring diverse technologies and pushing the boundaries of innovation.</h3>
-
 <div align="center">
-   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=AyushGorlawar&label=Profile%20views&color=0e75b6&style=flat" alt="AyushGorlawar" />
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/AyushGorlawar?style=social">
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/AyushGorlawar?style=social">
-   </p>
+
+# Ayush Gorlawar
+
+### AI & Machine Learning · Full-Stack Development · IoT
+
+*Building intelligent systems that solve real-world problems.*
+
+<a href="https://hits.sh/github.com/AyushGorlawar/"><img src="https://hits.sh/github.com/AyushGorlawar.svg?style=flat-square&label=Profile%20Views&color=0891b2" alt="Profile Views" /></a>
+<a href="https://github.com/AyushGorlawar"><img src="https://img.shields.io/badge/GitHub-AyushGorlawar-0891b2?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://github.com/AyushGorlawar?tab=followers"><img src="https://img.shields.io/github/followers/AyushGorlawar?label=Followers&style=flat-square&color=0891b2" alt="GitHub followers" /></a>
+<a href="https://github.com/AyushGorlawar?tab=repositories"><img src="https://img.shields.io/github/stars/AyushGorlawar?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=0891b2" alt="GitHub stars" /></a>
+
+
+
+
+<a href="https://linkedin.com/in/ayushgorlawar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ayushgorlawar91@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://twitter.com/ayushgorlawar"><img src="https://img.shields.io/badge/X-Follow-111827?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+
 </div>
-
-<div>
-  <a href="#">
-    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
-</div>
-
- 
-
-- 🌱 **Currently Learning:** Artificial Intelligence Analysis  
-- 💡 **Ask Me About:**  
-  Web development, IoT projects, backend solutions, AI models, data analysis techniques, and integrating AI into real-world applications.  
-- 📫 **Reach Me At:** ayushgorlawar91@gmail.com  
-- 🎯 **Hobbies:** Experimenting with medical technology, building smart IoT systems, and exploring AI-driven problem-solving.  
 
 ---
- 
 
-### 🤝 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/ayushgorlawar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/ayushgorlawar" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:ayushgorlawar91@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+## About me
 
-<div>
-  <a href="#">
-    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
-</div>
+I'm a developer and technology enthusiast based in India, working at the intersection of **artificial intelligence, machine learning, web engineering, and connected devices**. I enjoy taking ideas from experimentation to practical applications—especially when software meets the physical world.
 
+- **Focus:** AI/ML applications, computer vision, data-driven solutions, and IoT.
+- **Also building:** Full-stack web experiences, backend systems, and integrations.
+- **Currently exploring:** Applied AI and intelligent automation.
+- **Ask me about:** Python, ML workflows, web apps, APIs, microcontrollers, and data analysis.
 
-### 🧰 Languages and Tools  
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-</p>
+## What I work with
 
-<div>
-  <a href="#">
-    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
-</div>
+**Languages**
 
-## 📊 GitHub Statistics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<a href="https://github.com/AyushGorlawar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushGorlawar&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
-</a>
+**AI & Data**
 
-<a href="https://github.com/AyushGorlawar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushGorlawar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-</a>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111)
 
-## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGorlawar&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+**Web, Cloud & Hardware**
 
-## 🏆 GitHub Trophies
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<img src="https://github-profile-trophy.vercel.app/?username=AyushGorlawar&theme=dark_dimmed&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+## Areas of interest
 
-<div>
-  <a href="#">
-    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
-</div>
+| Machine Intelligence | Software Engineering | Connected Systems |
+| :--- | :--- | :--- |
+| Computer vision | Full-stack development | IoT prototyping |
+| Crop and disease detection | Backend APIs | Sensor integration |
+| Data analysis | Automation workflows | Smart monitoring |
+
+## GitHub at a glance
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+<a href="https://github.com/AyushGorlawar">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyushGorlawar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Ayush's GitHub statistics" />
+</a>
+<a href="https://github.com/AyushGorlawar?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGorlawar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+</a>
 
-<div>
-  <a href="#">
-    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
 </div>
+
+> GitHub statistics are generated by an external service. If they do not load, the rest of this profile remains available.
+
+## Contribution activity
+
+<div align="center">
+
+![GitHub contribution snake](https://raw.githubusercontent.com/AyushGorlawar/AyushGorlawar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub contribution snake](https://raw.githubusercontent.com/AyushGorlawar/AyushGorlawar/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+> The animation will appear after the included GitHub Actions workflow runs successfully for the first time.
+
+---
+
+<div align="center">
+
+**Have an interesting problem to solve?**
+
+[Let's connect on LinkedIn](https://linkedin.com/in/ayushgorlawar) · [Send me an email](mailto:ayushgorlawar91@gmail.com) · [Explore my repositories](https://github.com/AyushGorlawar?tab=repositories)
+
+<sub>Made with curiosity, code, and a commitment to keep learning.</sub>
 
 </div>
