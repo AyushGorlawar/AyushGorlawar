@@ -1,92 +1,157 @@
 <div align="center">
 
-# Ayush Gorlawar
+<!-- A new, clean visual direction: midnight / electric blue / editorial -->
 
-### AI & Machine Learning · Full-Stack Development · IoT
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B18,50:13254B,100:0077B6&text=AYUSH%20GORLAWAR&fontColor=FFFFFF&fontSize=46&fontAlignY=39&desc=AI%20%2F%20ML%20%20%C2%B7%20%20FULL-STACK%20%20%C2%B7%20%20IOT&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="Ayush Gorlawar header" />
 
-*Building intelligent systems that solve real-world problems.*
+### Building intelligent systems for the real world.
 
-<a href="https://hits.sh/github.com/AyushGorlawar/"><img src="https://hits.sh/github.com/AyushGorlawar.svg?style=flat-square&label=Profile%20Views&color=0891b2" alt="Profile Views" /></a>
-<a href="https://github.com/AyushGorlawar"><img src="https://img.shields.io/badge/GitHub-AyushGorlawar-0891b2?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://github.com/AyushGorlawar?tab=followers"><img src="https://img.shields.io/github/followers/AyushGorlawar?label=Followers&style=flat-square&color=0891b2" alt="GitHub followers" /></a>
-<a href="https://github.com/AyushGorlawar?tab=repositories"><img src="https://img.shields.io/github/stars/AyushGorlawar?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=0891b2" alt="GitHub stars" /></a>
+*I turn ideas into useful products — from machine learning models to connected devices and polished web experiences.*
 
+<a href="https://ayushgorlawar.io"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0575E6?style=for-the-badge&labelColor=0B1020" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/ayushgorlawar"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=0B1020" alt="LinkedIn" /></a>
+<a href="mailto:ayushgorlawar91@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20Hello-D14836?style=for-the-badge&labelColor=0B1020" alt="Email" /></a>
 
+<br/><br/>
 
-
-<a href="https://linkedin.com/in/ayushgorlawar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:ayushgorlawar91@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://twitter.com/ayushgorlawar"><img src="https://img.shields.io/badge/X-Follow-111827?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+<a href="https://hits.sh/github.com/AyushGorlawar/"><img src="https://hits.sh/github.com/AyushGorlawar.svg?style=flat-square&label=PROFILE%20VIEWS&color=1778D4&labelColor=111827" alt="Profile views" /></a>
+<img src="https://img.shields.io/github/followers/AyushGorlawar?label=FOLLOWERS&style=flat-square&color=1778D4&labelColor=111827" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/AyushGorlawar?label=STARS&style=flat-square&color=1778D4&labelColor=111827" alt="GitHub stars" />
 
 </div>
 
 ---
 
-## About me
+## 01 / About me
 
-I'm a developer and technology enthusiast based in India, working at the intersection of **artificial intelligence, machine learning, web engineering, and connected devices**. I enjoy taking ideas from experimentation to practical applications—especially when software meets the physical world.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- **Focus:** AI/ML applications, computer vision, data-driven solutions, and IoT.
-- **Also building:** Full-stack web experiences, backend systems, and integrations.
-- **Currently exploring:** Applied AI and intelligent automation.
-- **Ask me about:** Python, ML workflows, web apps, APIs, microcontrollers, and data analysis.
+I'm a developer from **India** interested in the intersection of **artificial intelligence, software engineering, and hardware**.
 
-## What I work with
+I enjoy building practical applications, experimenting with computer vision, and connecting intelligent models to real-world workflows.
 
-**Languages**
+- **Focus:** AI/ML, computer vision, IoT and web development
+- **Exploring:** end-to-end ML systems and intelligent automation
+- **Approach:** learn deeply, build thoughtfully, ship useful things
+- **Contact:** [ayushgorlawar91@gmail.com](mailto:ayushgorlawar91@gmail.com)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+</td>
+<td width="40%" valign="top">
 
-**AI & Data**
+```python
+class Ayush:
+    role = "Developer & AI/ML Explorer"
+    location = "India"
+    interests = [
+        "Machine Learning",
+        "Computer Vision",
+        "IoT Systems",
+        "Full-Stack Web"
+    ]
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111)
+    def motto(self):
+        return "Build. Learn. Improve."
+```
 
-**Web, Cloud & Hardware**
+</td>
+</tr>
+</table>
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 02 / What I build
 
-## Areas of interest
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Machine Intelligence | Software Engineering | Connected Systems |
-| :--- | :--- | :--- |
-| Computer vision | Full-stack development | IoT prototyping |
-| Crop and disease detection | Backend APIs | Sensor integration |
-| Data analysis | Automation workflows | Smart monitoring |
+### AI & Computer Vision
+Image understanding, crop and disease detection experiments, data processing, and practical ML pipelines.
 
-## GitHub at a glance
+</td>
+<td width="50%" valign="top">
+
+### Connected Systems
+Sensor-driven prototypes, embedded ideas, and software that bridges physical devices with usable interfaces.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Full-Stack Products
+Frontend experiences, backend services, APIs, dashboards, and automation workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### Data & Insights
+Exploratory analysis, predictive modeling, and turning complex information into actionable visualizations.
+
+</td>
+</tr>
+</table>
+
+## 03 / Tech I work with
 
 <div align="center">
 
-<a href="https://github.com/AyushGorlawar">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyushGorlawar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Ayush's GitHub statistics" />
-</a>
-<a href="https://github.com/AyushGorlawar?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGorlawar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
-</a>
+**Languages & web**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs&theme=dark&perline=7" alt="Python C++ C JavaScript HTML CSS Node.js" />
+
+**AI, data & platforms**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,mysql,firebase,arduino,git,github&theme=dark&perline=7" alt="TensorFlow Scikit-learn MySQL Firebase Arduino Git GitHub" />
+
+<sub>Also interested in Power BI, connected devices, applied analytics, and ML deployment.</sub>
 
 </div>
 
-> GitHub statistics are generated by an external service. If they do not load, the rest of this profile remains available.
+## 04 / Currently exploring
 
-## Contribution activity
+```text
+01  COMPUTER VISION     →  Image classification & plant health analysis
+02  APPLIED ML          →  From datasets to useful predictions
+03  IOT + AI            →  Sensor data, edge devices & smart systems
+04  PRODUCT ENGINEERING →  Reliable apps with thoughtful user experience
+```
+
+## 05 / GitHub activity
 
 <div align="center">
 
-![GitHub contribution snake](https://raw.githubusercontent.com/AyushGorlawar/AyushGorlawar/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub contribution snake](https://raw.githubusercontent.com/AyushGorlawar/AyushGorlawar/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyushGorlawar&show_icons=true&theme=transparent&title_color=55B7FF&text_color=CDD7E6&icon_color=55B7FF&border_color=26334B&hide_border=false" alt="Ayush's GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGorlawar&layout=compact&theme=transparent&title_color=55B7FF&text_color=CDD7E6&border_color=26334B&hide_border=false&langs_count=8" alt="Top languages" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGorlawar&bg_color=0d1117&color=8EC9FF&line=318CE7&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
-> The animation will appear after the included GitHub Actions workflow runs successfully for the first time.
+## 06 / Contribution trail
+
+<div align="center">
+
+<!-- Generated by .github/workflows/snake.yml. The graphic appears after the workflow runs successfully. -->
+
+<img src="https://raw.githubusercontent.com/AyushGorlawar/AyushGorlawar/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+
+<sub>The snake is generated automatically by GitHub Actions. See SETUP.md if it hasn't appeared yet.</sub>
+
+</div>
 
 ---
 
 <div align="center">
 
-**Have an interesting problem to solve?**
+### Have a project in mind?
 
-[Let's connect on LinkedIn](https://linkedin.com/in/ayushgorlawar) · [Send me an email](mailto:ayushgorlawar91@gmail.com) · [Explore my repositories](https://github.com/AyushGorlawar?tab=repositories)
+**Let's create something useful.**
 
-<sub>Made with curiosity, code, and a commitment to keep learning.</sub>
+[**Portfolio**](https://ayushgorlawar.io) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/ayushgorlawar) &nbsp;·&nbsp; [**Email**](mailto:ayushgorlawar91@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:070B18,50:13254B,100:0077B6" width="100%" alt="Footer wave" />
 
 </div>
